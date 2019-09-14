@@ -1,4 +1,4 @@
-# Reack-Starter-kit
+# React-Starter-kit
 Simple REACT App with babel and webpack
 
 # Setup
